@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Status } from "@/app/generated/prisma/enums";
+import { Status } from "@/types/task";
 
 import { updateTask } from "@/services/task";
 

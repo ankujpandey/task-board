@@ -1,5 +1,5 @@
 import { Badge } from "@/components/ui/badge";
-import { Status } from "@/app/generated/prisma/enums";
+import { Status } from "@/types/task";
 
 interface Props {
   status: Status;

@@ -1,6 +1,6 @@
 "use client";
 
-import { Status } from "@/app/generated/prisma/enums";
+import { Status } from "@/types/task";
 
 import {
   Table,

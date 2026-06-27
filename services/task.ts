@@ -1,5 +1,5 @@
 import { api } from "@/lib/api";
-import { Status } from "@/app/generated/prisma/enums";
+import { Status } from "@/types/task";
 
 export async function getTasks() {
   const response = await api.get("/tasks");
