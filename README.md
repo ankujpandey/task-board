@@ -1,6 +1,6 @@
 # Task Board
 
-A full-stack task management application built as part of the **Digitally Next Full Stack Developer Assignment**. The application allows users to securely manage their personal tasks using **Next.js App Router**, **Prisma ORM**, **SQLite**, and **JWT authentication** with **HTTP-only cookies**.
+A full-stack task management application built as part of the **Digitally Next Full Stack Developer Assignment**. The application allows users to securely manage their personal tasks using **Next.js App Router**, **Prisma ORM**, **PostgreSQL**, and **JWT authentication** with **HTTP-only cookies**.
 
 ---
 
@@ -36,7 +36,7 @@ A full-stack task management application built as part of the **Digitally Next F
 
 * Next.js Route Handlers
 * Prisma ORM
-* SQLite
+* PostgreSQL
 * JWT Authentication
 * bcryptjs
 * Zod
